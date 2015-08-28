@@ -1,1 +1,0 @@
-Contiene i futuri file di log
